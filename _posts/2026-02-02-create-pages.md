@@ -36,3 +36,7 @@ https://docs.github.com/en/pages/quickstart
 我发现hacker主题没有post的页面，上传了之后不起作用，于是在GitHub上找了一个**[academicpages.github.io](https://github.com/academicpages/academicpages.github.io)** 这个主题，直接右上角应用即可，很方便简单。
 
 然后发现上传了post之后，我的主页的post还是只想原作者的post，于是修改_config.yml配置文件里面的url.
+
+发现链接虽然改了，但是还是看不到我上传的post，于是我把它自身的post复制了一份，确定下是不是文件头的问题，前一次建自己的网站的时候就卡在莫名其妙的空格上了，似乎，经验没有传承下来，失败
+
+我还是觉得post的链接要改不应该是[Blog posts - Your Name / Site Title](https://khalil-nan.github.io/year-archive/)
