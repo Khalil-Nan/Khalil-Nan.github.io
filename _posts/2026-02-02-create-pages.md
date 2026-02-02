@@ -1,9 +1,13 @@
-```
-layout: post
-title: "个人网站的建立"
-date: 2026-02-02 22:02:45 -0000
-categories: Glossary 
-```
+---
+title: '个人网站的建立'
+date: 2026-02-02
+permalink: /posts/2026/02/个人网站的建立/
+tags:
+
+- Glossary
+
+
+---
 
 # 个人网站的建立
 
@@ -23,7 +27,7 @@ https://docs.github.com/en/pages/quickstart
 
 5. 对文件内部文件头的要求
 
-1. Add the following YAML frontmatter to the top of the file, including the post's title enclosed in quotation marks, the date and time for the post in YYYY-MM-DD hh:mm:ss -0000 format, and as many categories as you want for your post.
+6. Add the following YAML frontmatter to the top of the file, including the post's title enclosed in quotation marks, the date and time for the post in YYYY-MM-DD hh:mm:ss -0000 format, and as many categories as you want for your post.
    
    ```shell
    layout: post
@@ -31,5 +35,3 @@ https://docs.github.com/en/pages/quickstart
    date: YYYY-MM-DD hh:mm:ss -0000
    categories: CATEGORY-1 CATEGORY-2
    ```
-
-
