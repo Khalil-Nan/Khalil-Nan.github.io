@@ -32,3 +32,7 @@ https://docs.github.com/en/pages/quickstart
    date: YYYY-MM-DD hh:mm:ss -0000
    categories: CATEGORY-1 CATEGORY-2
    ```
+
+我发现hacker主题没有post的页面，上传了之后不起作用，于是在GitHub上找了一个**[academicpages.github.io](https://github.com/academicpages/academicpages.github.io)** 这个主题，直接右上角应用即可，很方便简单。
+
+然后发现上传了post之后，我的主页的post还是只想原作者的post，于是修改_config.yml配置文件里面的url.
