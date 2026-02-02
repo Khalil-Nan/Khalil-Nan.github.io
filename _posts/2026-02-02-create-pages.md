@@ -1,10 +1,12 @@
-```yaml
+---
+
 title: '个人网站的建立'
 date: 2026-02-02
 permalink: /posts/2026/02/个人网站的建立/
 tags:
     - Glossary
-```
+
+---
 
 # 个人网站的建立
 
