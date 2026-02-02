@@ -39,4 +39,8 @@ https://docs.github.com/en/pages/quickstart
 
 发现链接虽然改了，但是还是看不到我上传的post，于是我把它自身的post复制了一份，确定下是不是文件头的问题，前一次建自己的网站的时候就卡在莫名其妙的空格上了，似乎，经验没有传承下来，失败
 
-我还是觉得post的链接要改不应该是[Blog posts - Your Name / Site Title](https://khalil-nan.github.io/year-archive/)
+我还是觉得post的链接要改不应该是[Blog posts - Your Name / Site Title](https://khalil-nan.github.io/year-archive/)发现直接在地址栏换成/posts,没用，说明不是这个的问题
+
+我接着在它自带的文章里加入了测试测试，看看网页有没有变化。文章有变化，现在我看看之前复制的自带文章改下日期，看是不是日期的问题或者中文的问题，发现不是中文的问题。
+
+我现在把时间改为一致看是不是时间的问题
