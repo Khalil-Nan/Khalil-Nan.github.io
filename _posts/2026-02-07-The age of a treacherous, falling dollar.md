@@ -1,12 +1,9 @@
 ---
-
 title: 'The age of a treacherous, falling dollar'
 date: 2026-02-08
 permalink: /posts/2026/02/The age of a treacherous, falling dollar/
 tags:
-
-The Economist
-
+-The Economist
 ---
 
 # The age of a treacherous, falling dollar
