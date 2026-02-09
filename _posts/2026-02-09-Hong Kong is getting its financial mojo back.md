@@ -1,11 +1,9 @@
 ---
-
 title: 'Hong Kong is getting its financial mojo back'
 date: 2026-02-09
 permalink: /posts/2026/02/Hong Kong is getting its financial mojo back/
 tags:
-    - 周记
-
+    - The Economist
 ---
 
 ## 生词
