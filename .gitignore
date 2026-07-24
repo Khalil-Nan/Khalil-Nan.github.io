@@ -19,5 +19,11 @@ package-lock.json
 # Ignore folders related to IDEs
 .vscode/
 
+# Obsidian keeps machine-specific window state in these files.  The reusable
+# vault settings and templates remain version controlled.
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+
 # Ignore files created by MacOS
 .DS_Store
